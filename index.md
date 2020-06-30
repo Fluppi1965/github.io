@@ -9,4 +9,4 @@ Jean-Luc Picard, gespielt von Patrick Stewart, ist der kommandierende Offizier d
 * Hobby-Archäologe
 * Florettfechter
 * Shakespeare-Kenner
-* kann die ressikanische Flöte spielen
+
